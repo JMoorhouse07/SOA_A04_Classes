@@ -1,0 +1,5 @@
+C:\Users\Jay\Desktop\SOA_A04_Classes\SOA_A04_Classes\bin\Debug\SOA_A04_Classes.dll
+C:\Users\Jay\Desktop\SOA_A04_Classes\SOA_A04_Classes\bin\Debug\SOA_A04_Classes.pdb
+C:\Users\Jay\Desktop\SOA_A04_Classes\SOA_A04_Classes\obj\Debug\SOA_A04_Classes.csprojResolveAssemblyReference.cache
+C:\Users\Jay\Desktop\SOA_A04_Classes\SOA_A04_Classes\obj\Debug\SOA_A04_Classes.dll
+C:\Users\Jay\Desktop\SOA_A04_Classes\SOA_A04_Classes\obj\Debug\SOA_A04_Classes.pdb
